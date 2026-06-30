@@ -1,0 +1,6 @@
+[submodule "MandelbrotSet-Rendering"]
+	path = MandelbrotSet-Rendering
+	url = git@github.com:CptKappa/MandelbrotSet-Rendering.git
+[submodule "BlackHole-RayMarching"]
+	path = BlackHole-RayMarching
+	url = git@github.com:CptKappa/BlackHole-RayMarching.git
